@@ -1,3 +1,5 @@
+Projeto de testes funcionais com cypress
+
 Apos clonar o projeto rodar o npm install para baixar as dependencias do projeto.
 
 Quando dar npm install cypress vai criar uma pasta cypress
