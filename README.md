@@ -1,3 +1,5 @@
+Apos clonar o projeto rodar o npm install para baixar as dependencias do projeto.
+
 Quando dar npm install cypress vai criar uma pasta cypress
 e dentro dela crie uma pasta nome e2e e dentro dela 
 vai os arquivos de teste exemplo.cy.js o cypress automaticmanete vai entender
